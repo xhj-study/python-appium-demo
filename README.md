@@ -1,3 +1,5 @@
+源码：https://github.com/Lemonzhulixin/python-appium
+
 ## 0910 UPDATE
 * 新增控件集参数化，相同测试步骤的Android/iOS可共用一份测试用例
 * 不同测试步骤的用例还需要单独写
